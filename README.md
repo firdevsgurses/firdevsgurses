@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdevsgurses&label=Profile%20views&color=0e75b6&style=flat" alt="firdevsgurses" /> </p>
 
-- 🔭 I’m currently working on **Weather-App project.**
+- 🔭 I’m currently working on **Chat-App project.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **React-Native.**
 
 - 📫 How to reach me **firdevsgurses00@gmail.com**
 
